@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @edgarglzza
+- 👀 I’m interested in nanotechnology sciences, quantum physics and programming :D 
+- 🌱 I’m currently learning SQL, Wolfram Mathematica, CAD drawing systems and LLM (Large Language Models)
+- 💞️ I’m looking to collaborate on any project related in finite element analysis, material simulation,
+-     microfabrication design and microelectronics
+- 📫 How to reach me send me an e mail if you want to talk: edgar.glzza01@outlook.com
